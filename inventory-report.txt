@@ -1,5 +1,5 @@
 Inventory sync report
-Run: 2026-10-02 01:34 UTC
+Run: 2026-10-02 01:55 UTC
 Vehicles: 109  (new 74, used 35)
 
   New   Outlander PHEV         24
