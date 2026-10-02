@@ -1,0 +1,36 @@
+name: Update inventory
+
+on:
+  schedule:
+    - cron: '0 13 * * 1'      # every Monday at 13:00 UTC = about 6:00 AM Kelowna time. For daily, use '0 13 * * *'
+  workflow_dispatch:           # lets you press "Run workflow" any time
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install browser (only used if the website needs it)
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+        continue-on-error: true
+
+      - name: Read the inventory
+        run: python scrape_inventory.py
+
+      - name: Save the new file
+        run: |
+          git config user.name "inventory-bot"
+          git config user.email "inventory-bot@users.noreply.github.com"
+          git add inventory.json inventory-report.txt
+          git diff --cached --quiet || git commit -m "Inventory update $(date -u +%F)"
+          git push
