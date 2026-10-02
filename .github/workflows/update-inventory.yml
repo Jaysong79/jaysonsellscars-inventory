@@ -2,7 +2,7 @@ name: Update inventory
 
 on:
   schedule:
-    - cron: '0 13 * * 1'      # every Monday at 13:00 UTC = about 6:00 AM Kelowna time. For daily, use '0 13 * * *'
+    - cron: 'cron: '0 13 * * *'      # every Monday at 13:00 UTC = about 6:00 AM Kelowna time. For daily, use '0 13 * * *'
   workflow_dispatch:           # lets you press "Run workflow" any time
 
 permissions:
