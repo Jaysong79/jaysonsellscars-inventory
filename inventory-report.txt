@@ -1,10 +1,10 @@
 Inventory sync report
-Run: 2026-10-04 17:28 UTC
-Vehicles: 110  (new 75, used 35)
+Run: 2026-10-05 21:07 UTC
+Vehicles: 107  (new 72, used 35)
 
-  New   Outlander PHEV         25
-  New   Eclipse Cross          21
-  New   Outlander              17
+  New   Outlander PHEV         24
+  New   Eclipse Cross          20
+  New   Outlander              16
   New   RVR                    12
   Used  1500                   2
   Used  Lancer                 2
