@@ -1,6 +1,6 @@
 Inventory sync report
-Run: 2026-10-21 18:01 UTC
-Vehicles: 106  (new 71, used 35)
+Run: 2026-10-22 17:58 UTC
+Vehicles: 105  (new 71, used 34)
 
   New   Outlander PHEV         29
   New   Eclipse Cross          18
@@ -13,7 +13,6 @@ Vehicles: 106  (new 71, used 35)
   Used  1500 Classic           1
   Used  4Runner                1
   Used  911                    1
-  Used  B 200                  1
   Used  CX-9                   1
   Used  Canyon                 1
   Used  Cherokee               1
