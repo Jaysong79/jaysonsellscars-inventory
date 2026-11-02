@@ -1,15 +1,14 @@
 Inventory sync report
-Run: 2026-11-01 18:37 UTC
-Vehicles: 98  (new 64, used 34)
+Run: 2026-11-02 22:34 UTC
+Vehicles: 98  (new 65, used 33)
 
-  New   Outlander PHEV         25
-  New   Eclipse Cross          15
+  New   Outlander PHEV         26
+  New   Eclipse Cross          14
   New   Outlander              13
-  New   RVR                    11
+  New   RVR                    12
   Used  1500                   3
   Used  Outlander              3
   Used  Outlander PHEV         2
-  Used  RVR                    2
   Used  1500 Classic           1
   Used  4Runner                1
   Used  911                    1
@@ -19,12 +18,14 @@ Vehicles: 98  (new 64, used 34)
   Used  Colorado               1
   Used  Equinox EV             1
   Used  Grand Caravan          1
+  Used  Highlander             1
   Used  Impreza                1
   Used  Lancer                 1
   Used  MDX                    1
   Used  MX-30 EV               1
   Used  Mazda3 Sport           1
   Used  Model 3                1
+  Used  RVR                    1
   Used  Range Rover Evoque     1
   Used  Rogue                  1
   Used  Santa Fe               1
@@ -32,10 +33,7 @@ Vehicles: 98  (new 64, used 34)
   Used  Sentra                 1
   Used  Sportage               1
   Used  X1                     1
-  Used  X3                     1
   Used  Yaris hatchback        1
 
-Skipped (3):
-  https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-RVR-id13732215.html  Could not load https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-RVR-id13732215.html (The read operation timed out)
-  https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Outlander_PHEV-id14040092.html  Could not load https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Outlander_PHEV-id14040092.html (The read operation timed out)
-  https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Outlander_PHEV-id14507071.html  Could not load https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Outlander_PHEV-id14507071.html (The read operation timed out)
+Skipped (1):
+  https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Eclipse_Cross-id13676681.html  Could not load https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Eclipse_Cross-id13676681.html (The read operation timed out)
