@@ -1,10 +1,10 @@
 Inventory sync report
-Run: 2026-11-19 21:30 UTC
-Vehicles: 95  (new 63, used 32)
+Run: 2026-11-20 21:11 UTC
+Vehicles: 93  (new 61, used 32)
 
   New   Outlander PHEV         26
   New   Eclipse Cross          14
-  New   Outlander              13
+  New   Outlander              11
   New   RVR                    10
   Used  Outlander PHEV         3
   Used  1500                   2
@@ -12,6 +12,7 @@ Vehicles: 95  (new 63, used 32)
   Used  1500 Classic           1
   Used  4Runner                1
   Used  911                    1
+  Used  CX 30                  1
   Used  CX-9                   1
   Used  Canyon                 1
   Used  Cherokee               1
@@ -33,7 +34,7 @@ Vehicles: 95  (new 63, used 32)
   Used  Sentra                 1
   Used  Sportage               1
   Used  X1                     1
-  Used  Yaris hatchback        1
 
-Skipped (1):
-  https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Outlander_PHEV-id14297370.html  Could not load https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Outlander_PHEV-id14297370.html (The read operation timed out)
+Skipped (2):
+  https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Outlander-id13941371.html  Could not load https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Outlander-id13941371.html (The read operation timed out)
+  https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Outlander_PHEV-id14373486.html  Could not load https://www.valleymitsubishi.ca/new/inventory/2026-Mitsubishi-Outlander_PHEV-id14373486.html (The read operation timed out)
